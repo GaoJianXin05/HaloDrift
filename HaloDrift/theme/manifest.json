@@ -1,0 +1,106 @@
+{
+  "manifest_version": 3,
+  "name": "Halo Drift Theme",
+  "version": "1.0.0",
+  "icons": {
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [
+        16,
+        17,
+        23
+      ],
+      "frame_inactive": [
+        13,
+        14,
+        19
+      ],
+      "frame_incognito": [
+        12,
+        12,
+        16
+      ],
+      "frame_incognito_inactive": [
+        10,
+        10,
+        14
+      ],
+      "toolbar": [
+        35,
+        33,
+        50
+      ],
+      "toolbar_text": [
+        238,
+        240,
+        246
+      ],
+      "toolbar_button_icon": [
+        200,
+        204,
+        216
+      ],
+      "tab_text": [
+        238,
+        240,
+        246
+      ],
+      "tab_background_text": [
+        168,
+        172,
+        186
+      ],
+      "tab_background_text_inactive": [
+        130,
+        134,
+        148
+      ],
+      "bookmark_text": [
+        214,
+        217,
+        228
+      ],
+      "omnibox_background": [
+        18,
+        19,
+        26
+      ],
+      "omnibox_text": [
+        238,
+        240,
+        246
+      ],
+      "ntp_background": [
+        16,
+        17,
+        23
+      ],
+      "ntp_text": [
+        238,
+        240,
+        246
+      ],
+      "ntp_link": [
+        28,
+        157,
+        255
+      ],
+      "ntp_header": [
+        139,
+        92,
+        246
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}
